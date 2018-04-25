@@ -1,2 +1,2 @@
-gcr.io/google_containers/etcd-amd64:3.1.13
+FROM gcr.io/google_containers/kube-scheduler-amd64:v1.10.0
 MAINTAINER KesterChan

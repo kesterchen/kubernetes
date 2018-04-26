@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/etcd-amd64:v3.1.13
+FROM gcr.io/google_containers/etcd-amd64:3.1.13
 MAINTAINER KesterChan
